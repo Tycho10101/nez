@@ -20,7 +20,7 @@ window.EMULATOR_CONFIG = {
         gameTitle: urlParams.get('title'), // Changed semicolon to comma
 
         // Show the "Click to play" config - may help with mobile device embedding
-        showClickToPlay: false
+        showClickToPlay: true
     }, 
 
     // Settings for the embedded version of the emulator to go on other webpages (index_embed.html)
